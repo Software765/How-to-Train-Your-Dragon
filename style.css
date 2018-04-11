@@ -1,5 +1,8 @@
 nav li {
 	display: inline;
+}
+
+nav {
 	font-size: 80px;
 }
 
