@@ -1,13 +1,10 @@
 nav li {
 	display: inline;
+	font-size: 80px;
 }
 
 .menu {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-}
-
-.image {
-	background-size: 200px;
 }
