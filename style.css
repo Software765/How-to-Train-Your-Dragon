@@ -23,3 +23,11 @@ nav {
 	text-align: center;
 	color: #2d0503;
 }
+
+.image {
+	cursor: pointer;
+}
+
+.logo {
+	cursor: pointer;
+}
