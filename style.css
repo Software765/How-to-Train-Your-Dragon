@@ -12,3 +12,8 @@ nav {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+.image {
+	height: 100px;
+	width: 100px;
+}
