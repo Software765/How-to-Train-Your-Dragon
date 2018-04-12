@@ -3,22 +3,23 @@ nav li {
 }
 
 nav {
-	font-size: 25px;
-	color: #2d0503;
+	font-size: 30px;
+	margin-right: 10px;
 }
 
 .menu {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	border: 3px;
 }
 
 .intro p {
 	font-size: 30px;
+	text-align: center;
 }
 
 .intro h1 {
 	font-size: 40px;
 	text-align: center;
+	color: #2d0503;
 }
