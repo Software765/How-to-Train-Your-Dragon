@@ -31,3 +31,8 @@ nav {
 .logo {
 	cursor: pointer;
 }
+
+.image p {
+	font-size: 30px;
+	text-align: center;
+}
