@@ -14,5 +14,9 @@ nav {
 }
 
 .intro p {
-	font-size: 50px;
+	font-size: 30px;
+}
+
+.intro h1 {
+	font-size: 40px
 }
