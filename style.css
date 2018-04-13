@@ -21,7 +21,7 @@ nav {
 .intro h1 {
 	font-size: 40px;
 	text-align: center;
-	color: #2d0503;
+	color: #e23a24;
 }
 
 .image {
@@ -35,6 +35,7 @@ nav {
 .image p {
 	font-size: 30px;
 	text-align: center;
+	color: #e23a24;
 }
 
 body {
