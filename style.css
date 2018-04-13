@@ -16,6 +16,9 @@ nav {
 .intro p {
 	font-size: 30px;
 	text-align: center;
+	background-color: #ffffff;
+	border: 2px;
+	border-color: #f77c47;
 }
 
 .intro h1 {
