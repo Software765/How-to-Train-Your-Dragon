@@ -17,8 +17,8 @@ nav {
 	font-size: 30px;
 	text-align: center;
 	background-color: #ffffff;
-	border: 2px;
-	border-color: #f77c47;
+	border-style: solid;
+	border-color: #d84817;
 }
 
 .intro h1 {
