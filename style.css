@@ -44,3 +44,7 @@ nav {
 body {
 	background-image: url(https://images2.alphacoders.com/642/642944.jpg);
 }
+
+.characters {
+	display: flex;
+}
