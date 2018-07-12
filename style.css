@@ -48,3 +48,9 @@ body {
 .characters {
 	display: flex;
 }
+
+.pic p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
