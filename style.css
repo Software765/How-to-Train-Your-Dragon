@@ -68,6 +68,7 @@ body {
 	font-size: 50px;
 	text-align: center;
 	color: #a80505;
+	cursor: pointer;
 }
 
 .info p {
