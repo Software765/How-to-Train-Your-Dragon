@@ -64,13 +64,18 @@ body {
 	float: right;
 }
 
-.pro p {
+.title p {
 	font-size: 50px;
 	text-align: center;
 	color: #a80505;
 }
 
 .info p {
+	font-size: 28px;
+	color: #e23a24;
+}
+
+.info2 p {
 	font-size: 28px;
 	color: #e23a24;
 }
