@@ -15,4 +15,7 @@ $(document).ready(() => {
 	$(".title3").on("click", () => {
 		$(".info3").slideToggle();
 	})
+	$(".title4").on("click", () => {
+		$(".info4").slideToggle();
+	})
 });

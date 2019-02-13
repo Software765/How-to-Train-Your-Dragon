@@ -106,3 +106,19 @@ body {
 .info3 h1 {
 	color: #bc9b07;
 }
+
+.title4 p {
+	font-size: 50px;
+	text-align: center;
+	color: #a80505;
+	cursor: pointer;
+}
+
+.info4 p {
+    font-size: 28px;
+	color: #e23a24;
+}
+
+.info4 h1 {
+	color: #bc9b07;
+}
