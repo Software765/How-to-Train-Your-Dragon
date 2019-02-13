@@ -68,7 +68,6 @@ body {
 	font-size: 50px;
 	text-align: center;
 	color: #a80505;
-	cursor: pointer;
 }
 
 .info p {
@@ -81,6 +80,29 @@ body {
 	color: #e23a24;
 }
 
+.title2 p {
+	font-size: 50px;
+	text-align: center;
+	color: #a80505;
+	cursor: pointer;
+}
+
 .info2 h1 {
+	color: #bc9b07;
+}
+
+.title3 p {
+	font-size: 50px;
+	text-align: center;
+	color: #a80505;
+	cursor: pointer;
+}
+
+.info3 p {
+	font-size: 28px;
+	color: #e23a24;
+}
+
+.info3 h1 {
 	color: #bc9b07;
 }
