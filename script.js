@@ -7,8 +7,12 @@ $(document).ready(() => {
 	})
 
 	$(".info2").hide();
+	$(".info3").hide();
 	
-	$(".title").on("click", () => {
+	$(".title2").on("click", () => {
 		$(".info2").slideToggle();
+	})
+	$(".title3").on("click", () => {
+		$(".info3").slideToggle();
 	})
 });
