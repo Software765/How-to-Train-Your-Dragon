@@ -8,6 +8,7 @@ $(document).ready(() => {
 
 	$(".info2").hide();
 	$(".info3").hide();
+	$(".info4").hide();
 	
 	$(".title2").on("click", () => {
 		$(".info2").slideToggle();
