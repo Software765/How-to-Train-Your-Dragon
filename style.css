@@ -27,18 +27,38 @@ nav {
 	color: #e23a24;
 }
 
-.image {
+.image1 {
 	cursor: pointer;
+}
+
+.image1 p {
+	font-size: 30px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.image2 {
+	cursor: pointer;
+}
+
+.image2 p {
+	font-size: 30px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.image3 {
+	cursor: pointer;
+}
+
+.image3 p {
+	font-size: 30px;
+	text-align: center;
+	color: #e23a24;
 }
 
 .logo {
 	cursor: pointer;
-}
-
-.image p {
-	font-size: 30px;
-	text-align: center;
-	color: #e23a24;
 }
 
 body {
@@ -50,13 +70,93 @@ body {
 	flex-wrap: wrap;
 }
 
-.pic p {	
+.pic1 p {	
 	font-size: 20px;
 	text-align: center;
 	color: #e23a24;
 }
 
-.pic {
+.pic1 {
+	cursor: pointer;
+}
+
+.pic2 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic2 {
+	cursor: pointer;
+}
+
+.pic3 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic3 {
+	cursor: pointer;
+}
+
+.pic4 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic4 {
+	cursor: pointer;
+}
+
+.pic5 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic5 {
+	cursor: pointer;
+}
+
+.pic6 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic6 {
+	cursor: pointer;
+}
+
+.pic7 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic7 {
+	cursor: pointer;
+}
+
+.pic8 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic8 {
+	cursor: pointer;
+}
+
+.pic9 p {	
+	font-size: 20px;
+	text-align: center;
+	color: #e23a24;
+}
+
+.pic9 {
 	cursor: pointer;
 }
 
