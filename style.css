@@ -27,31 +27,11 @@ nav {
 	color: #e23a24;
 }
 
-.image1 {
+.image1, .image2, .image3 {
 	cursor: pointer;
 }
 
-.image1 p {
-	font-size: 30px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.image2 {
-	cursor: pointer;
-}
-
-.image2 p {
-	font-size: 30px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.image3 {
-	cursor: pointer;
-}
-
-.image3 p {
+.image1 p, .image2 p, .image3 p {
 	font-size: 30px;
 	text-align: center;
 	color: #e23a24;
@@ -70,93 +50,13 @@ body {
 	flex-wrap: wrap;
 }
 
-.pic1 p {	
+.pic1 p, .pic2 p, .pic3 p, .pic4 p, .pic5 p, .pic6 p, .pic7 p, .pic8 p, .pic9 p {	
 	font-size: 20px;
 	text-align: center;
 	color: #e23a24;
 }
 
-.pic1 {
-	cursor: pointer;
-}
-
-.pic2 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic2 {
-	cursor: pointer;
-}
-
-.pic3 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic3 {
-	cursor: pointer;
-}
-
-.pic4 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic4 {
-	cursor: pointer;
-}
-
-.pic5 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic5 {
-	cursor: pointer;
-}
-
-.pic6 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic6 {
-	cursor: pointer;
-}
-
-.pic7 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic7 {
-	cursor: pointer;
-}
-
-.pic8 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic8 {
-	cursor: pointer;
-}
-
-.pic9 p {	
-	font-size: 20px;
-	text-align: center;
-	color: #e23a24;
-}
-
-.pic9 {
+.pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8, .pic9 {
 	cursor: pointer;
 }
 
@@ -170,55 +70,18 @@ body {
 	color: #a80505;
 }
 
-.info p {
+.info p, .info2 p, .info3 p, .info4 p {
 	font-size: 28px;
 	color: #e23a24;
 }
 
-.info2 p {
-	font-size: 28px;
-	color: #e23a24;
-}
-
-.title2 p {
+.title2 p, .title3 p, .title4 p {
 	font-size: 50px;
 	text-align: center;
 	color: #a80505;
 	cursor: pointer;
 }
 
-.info2 h1 {
-	color: #bc9b07;
-}
-
-.title3 p {
-	font-size: 50px;
-	text-align: center;
-	color: #a80505;
-	cursor: pointer;
-}
-
-.info3 p {
-	font-size: 28px;
-	color: #e23a24;
-}
-
-.info3 h1 {
-	color: #bc9b07;
-}
-
-.title4 p {
-	font-size: 50px;
-	text-align: center;
-	color: #a80505;
-	cursor: pointer;
-}
-
-.info4 p {
-    font-size: 28px;
-	color: #e23a24;
-}
-
-.info4 h1 {
+.info2 h1, .info3 h1, .info4 h1 {
 	color: #bc9b07;
 }
