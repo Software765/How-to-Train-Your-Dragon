@@ -19,16 +19,16 @@ $(document).ready(() => {
 	})
 
 	$(".pic1").on("mouseenter", () => {
-		$(".pic1 p").css("color", "#bc9b07");
+		$(".pic1 a").css("color", "#bc9b07");
 	})
 	$(".pic1").on("mouseleave", () => {
-		$(".pic1 p").css("color", "#e23a24");
+		$(".pic1 a").css("color", "#e23a24");
 	})
 	$(".pic2").on("mouseenter", () => {
-		$(".pic2 p").css("color", "#bc9b07");
+		$(".pic2 a").css("color", "#bc9b07");
 	})
 	$(".pic2").on("mouseleave", () => {
-		$(".pic2 p").css("color", "#e23a24");
+		$(".pic2 a").css("color", "#e23a24");
 	})
 	$(".pic3").on("mouseenter", () => {
 		$(".pic3 p").css("color", "#bc9b07");
