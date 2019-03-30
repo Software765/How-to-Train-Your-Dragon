@@ -7,6 +7,11 @@ nav {
 	margin-right: 10px;
 }
 
+nav a {
+	color: #e23a24;
+	text-decoration: none;
+}
+
 .menu {
 	display: flex;
 	flex-wrap: wrap;
@@ -31,12 +36,15 @@ nav {
 	cursor: pointer;
 }
 
-.image1 p, .image2 p, .image3 p {
+.image1 a, .image2 a, .image3 a {
 	font-size: 30px;
-	text-align: center;
+	text-decoration: none;
 	color: #e23a24;
 }
 
+.image1 p, .image2 p, .image3 p {
+	text-align: center;
+}
 .logo {
 	cursor: pointer;
 }

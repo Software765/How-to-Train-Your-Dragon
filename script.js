@@ -1,21 +1,21 @@
 $(document).ready(() => {
 	$(".image1").on("mouseenter", () => {
-		$(".image1 p").css("color", "#bc9b07");
+		$(".image1 a").css("color", "#bc9b07");
 	})
 	$(".image1").on("mouseleave", () => {
-		$(".image1 p").css("color", "#e23a24");
+		$(".image1 a").css("color", "#e23a24");
 	})
 	$(".image2").on("mouseenter", () => {
-		$(".image2 p").css("color", "#bc9b07");
+		$(".image2 a").css("color", "#bc9b07");
 	})
 	$(".image2").on("mouseleave", () => {
-		$(".image2 p").css("color", "#e23a24");
+		$(".image2 a").css("color", "#e23a24");
 	})
 	$(".image3").on("mouseenter", () => {
-		$(".image3 p").css("color", "#bc9b07");
+		$(".image3 a").css("color", "#bc9b07");
 	})
 	$(".image3").on("mouseleave", () => {
-		$(".image3 p").css("color", "#e23a24");
+		$(".image3 a").css("color", "#e23a24");
 	})
 
 	$(".pic1").on("mouseenter", () => {
